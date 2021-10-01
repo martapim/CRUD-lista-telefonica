@@ -1,6 +1,5 @@
 # CRUD-lista-telefonica
- 
-# lista-telefonica-react
+
 <b>Projeto de lista telefônica feito após o bootcamp React Web da DIO.</b>
 <br>
 A proposta é criar um CRUD clássico onde o usuário pode:
@@ -22,8 +21,10 @@ Tecnologias e pacotes utilizados:
 <ul>
 
  <br>
- <br>
- <b>Como instalar na sua máquina?</b>
+
+ 
+
+ Como instalar na sua máquina?
  É preciso que em sua máquina tenha Git e NodeJs
  <br>
 Clone o repositório na sua máquina com git clone https://github.com/martapim/lista-telefonica-react.git
