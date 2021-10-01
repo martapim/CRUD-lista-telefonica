@@ -21,10 +21,10 @@ Tecnologias e pacotes utilizados:
 <ul>
 
  <br>
-
+<br>
  
 
- Como instalar na sua máquina?
+ <b>Como instalar na sua máquina?</b>
  É preciso que em sua máquina tenha Git e NodeJs
  <br>
 Clone o repositório na sua máquina com git clone https://github.com/martapim/lista-telefonica-react.git
