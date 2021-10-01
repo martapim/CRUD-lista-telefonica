@@ -8,7 +8,7 @@ const app = express();
 app.use(cors())
 
 const routes = require('./routes/contactRoute');
-mongoose.connect('mongodb+srv://martamalafaia:Vinilindo86!@cluster0.ekdzf.mongodb.net/list?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://martamalafaia:martamalafaia@cluster0.ekdzf.mongodb.net/list?retryWrites=true&w=majority', {
     useNewUrlParser:true,
     useUnifiedTopology:true,
 });
