@@ -29,7 +29,7 @@ Tecnologias e pacotes utilizados:
  <br>
 Clone o repositório na sua máquina com git clone https://github.com/martapim/lista-telefonica-react.git
 <br>
- Entre na pasta root cd projeto-todo e instale as dependencias com npm install
+ Entre na pasta root cd projeto-todo e instale as dependencias com yarn install
 <br>
  Por último inicie a aplicação com npm start
 <br>
