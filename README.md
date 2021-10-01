@@ -33,4 +33,4 @@ Clone o repositório na sua máquina com git clone https://github.com/martapim/l
  Por último inicie a aplicação com npm start
 <br>
 <br>
- Feito por 
+ Feito por <a href="https://github.com/martapim">Marta</a> e <a href="https://github.com/pollyanasousa">Pollyana</a>
